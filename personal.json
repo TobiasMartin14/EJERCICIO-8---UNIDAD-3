@@ -1,0 +1,58 @@
+{"__class__": "Coleccion",
+ "Personal":
+ [
+    {
+        "__class__": "Apoyo",
+        "__atributos__": {
+            "cuil": "20-44915735-5",
+            "apellido": "Perez",
+            "nombre": "Alejandro",
+            "sueldo": 150000,
+            "antiguedad": 10,
+            "categoria": 10
+        }
+    },
+    {
+        "__class__": "Docente",
+        "__atributos__": {
+            "cuil": "20-45914784-5",
+            "apellido": "Pelegrina",
+            "nombre": "Gabriel",
+            "sueldo": 120000,
+            "antiguedad": 5,
+            "carrera": "LSI",
+            "cargo": "exclusivo",
+            "catedra": "POO"
+        }
+    },
+    {
+        "__class__": "Investigador",
+        "__atributos__": {
+            "cuil": "20-47894215-5",
+            "apellido": "Manrique",
+            "nombre": "Augusto",
+            "sueldo": 200000,
+            "antiguedad": 7,
+            "area": "Topologia",
+            "tipo": "I"
+        }
+    },
+    {
+        "__class__": "DocenteInvestigador",
+        "__atributos__": {
+            "cuil": "20-31789034-5",
+            "apellido": "Martin",
+            "nombre": "Tobias",
+            "sueldo": 170000,
+            "antiguedad": 4,
+            "area": "Analisis",
+            "tipo": "II",
+            "carrera": "LCC",
+            "cargo": "semiexclusivo",
+            "catedra": "Algoritmos",
+            "categoria_programa": "III",
+            "extra": 60000
+        }
+    }
+ ]
+}
